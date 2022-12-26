@@ -1,0 +1,74 @@
+H:\OOP2 Fall 20-21\code practice\Super-Shop M.S project\Super-Shop_Management_System\Super-Shop_Management_System\bin\Debug\Super-Shop_Management_System.exe.config
+H:\OOP2 Fall 20-21\code practice\Super-Shop M.S project\Super-Shop_Management_System\Super-Shop_Management_System\bin\Debug\Super-Shop_Management_System.exe
+H:\OOP2 Fall 20-21\code practice\Super-Shop M.S project\Super-Shop_Management_System\Super-Shop_Management_System\bin\Debug\Super-Shop_Management_System.pdb
+H:\OOP2 Fall 20-21\code practice\Super-Shop M.S project\Super-Shop_Management_System\Super-Shop_Management_System\obj\Debug\Super-Shop_Management_System.csprojAssemblyReference.cache
+H:\OOP2 Fall 20-21\code practice\Super-Shop M.S project\Super-Shop_Management_System\Super-Shop_Management_System\obj\Debug\Super_Shop_Management_System.Properties.Resources.resources
+H:\OOP2 Fall 20-21\code practice\Super-Shop M.S project\Super-Shop_Management_System\Super-Shop_Management_System\obj\Debug\Super-Shop_Management_System.csproj.GenerateResource.cache
+H:\OOP2 Fall 20-21\code practice\Super-Shop M.S project\Super-Shop_Management_System\Super-Shop_Management_System\obj\Debug\Super-Shop_Management_System.csproj.CoreCompileInputs.cache
+H:\OOP2 Fall 20-21\code practice\Super-Shop M.S project\Super-Shop_Management_System\Super-Shop_Management_System\obj\Debug\Super-Shop_Management_System.exe
+H:\OOP2 Fall 20-21\code practice\Super-Shop M.S project\Super-Shop_Management_System\Super-Shop_Management_System\obj\Debug\Super-Shop_Management_System.pdb
+H:\OOP2 Fall 20-21\code practice\Super-Shop M.S project\Super-Shop_Management_System\Super-Shop_Management_System\obj\Debug\Super_Shop_Management_System.Views.Homepage.resources
+H:\OOP2 Fall 20-21\code practice\Super-Shop M.S project\Super-Shop_Management_System\Super-Shop_Management_System\obj\Debug\Super_Shop_Management_System.Form1.resources
+H:\OOP2 Fall 20-21\code practice\Super-Shop M.S project\Super-Shop_Management_System\Super-Shop_Management_System\obj\Debug\Super_Shop_Management_System.Views.AdminPage.resources
+H:\OOP2 Fall 20-21\code practice\Super-Shop M.S project\Super-Shop_Management_System\Super-Shop_Management_System\obj\Debug\Super_Shop_Management_System.Views.AllProductsList.resources
+H:\OOP2 Fall 20-21\code practice\Super-Shop M.S project\Super-Shop_Management_System\Super-Shop_Management_System\obj\Debug\Super_Shop_Management_System.Views.CustomerAllinfomation.resources
+H:\OOP2 Fall 20-21\code practice\Super-Shop M.S project\Super-Shop_Management_System\Super-Shop_Management_System\obj\Debug\Super_Shop_Management_System.Views.CustomerPage.resources
+H:\OOP2 Fall 20-21\code practice\Super-Shop M.S project\Super-Shop_Management_System\Super-Shop_Management_System\obj\Debug\Super_Shop_Management_System.Views.EmployeeAllinformation.resources
+H:\OOP2 Fall 20-21\code practice\Super-Shop M.S project\Super-Shop_Management_System\Super-Shop_Management_System\obj\Debug\Super_Shop_Management_System.Views.EmployeePage.resources
+H:\OOP2 Fall 20-21\code practice\Super-Shop M.S project\Super-Shop_Management_System\Super-Shop_Management_System\obj\Debug\Super_Shop_Management_System.Views.LoginForm.resources
+H:\OOP2 Fall 20-21\code practice\Super-Shop M.S project\Super-Shop_Management_System\Super-Shop_Management_System\obj\Debug\Super_Shop_Management_System.Views.ManagerAllInformation.resources
+H:\OOP2 Fall 20-21\code practice\Super-Shop M.S project\Super-Shop_Management_System\Super-Shop_Management_System\obj\Debug\Super_Shop_Management_System.Views.ManagerPage.resources
+H:\OOP2 Fall 20-21\code practice\Super-Shop M.S project\Super-Shop_Management_System\Super-Shop_Management_System\obj\Debug\Super_Shop_Management_System.Views.RegistrationForm.resources
+H:\Super-Shop M.S project\Super-Shop_Management_System\Super-Shop_Management_System\bin\Debug\Super-Shop_Management_System.exe.config
+H:\Super-Shop M.S project\Super-Shop_Management_System\Super-Shop_Management_System\bin\Debug\Super-Shop_Management_System.exe
+H:\Super-Shop M.S project\Super-Shop_Management_System\Super-Shop_Management_System\bin\Debug\Super-Shop_Management_System.pdb
+H:\Super-Shop M.S project\Super-Shop_Management_System\Super-Shop_Management_System\obj\Debug\Super-Shop_Management_System.csprojAssemblyReference.cache
+H:\Super-Shop M.S project\Super-Shop_Management_System\Super-Shop_Management_System\obj\Debug\Super_Shop_Management_System.Form1.resources
+H:\Super-Shop M.S project\Super-Shop_Management_System\Super-Shop_Management_System\obj\Debug\Super_Shop_Management_System.Properties.Resources.resources
+H:\Super-Shop M.S project\Super-Shop_Management_System\Super-Shop_Management_System\obj\Debug\Super_Shop_Management_System.Views.AdminPage.resources
+H:\Super-Shop M.S project\Super-Shop_Management_System\Super-Shop_Management_System\obj\Debug\Super_Shop_Management_System.Views.AllProductsList.resources
+H:\Super-Shop M.S project\Super-Shop_Management_System\Super-Shop_Management_System\obj\Debug\Super_Shop_Management_System.Views.CustomerAllinfomation.resources
+H:\Super-Shop M.S project\Super-Shop_Management_System\Super-Shop_Management_System\obj\Debug\Super_Shop_Management_System.Views.CustomerPage.resources
+H:\Super-Shop M.S project\Super-Shop_Management_System\Super-Shop_Management_System\obj\Debug\Super_Shop_Management_System.Views.EmployeeAllinformation.resources
+H:\Super-Shop M.S project\Super-Shop_Management_System\Super-Shop_Management_System\obj\Debug\Super_Shop_Management_System.Views.EmployeePage.resources
+H:\Super-Shop M.S project\Super-Shop_Management_System\Super-Shop_Management_System\obj\Debug\Super_Shop_Management_System.Views.Homepage.resources
+H:\Super-Shop M.S project\Super-Shop_Management_System\Super-Shop_Management_System\obj\Debug\Super_Shop_Management_System.Views.LoginForm.resources
+H:\Super-Shop M.S project\Super-Shop_Management_System\Super-Shop_Management_System\obj\Debug\Super_Shop_Management_System.Views.ManagerAllInformation.resources
+H:\Super-Shop M.S project\Super-Shop_Management_System\Super-Shop_Management_System\obj\Debug\Super_Shop_Management_System.Views.ManagerPage.resources
+H:\Super-Shop M.S project\Super-Shop_Management_System\Super-Shop_Management_System\obj\Debug\Super_Shop_Management_System.Views.ManagerRegistrationForm.resources
+H:\Super-Shop M.S project\Super-Shop_Management_System\Super-Shop_Management_System\obj\Debug\Super_Shop_Management_System.Views.RegistrationForm.resources
+H:\Super-Shop M.S project\Super-Shop_Management_System\Super-Shop_Management_System\obj\Debug\Super-Shop_Management_System.csproj.GenerateResource.cache
+H:\Super-Shop M.S project\Super-Shop_Management_System\Super-Shop_Management_System\obj\Debug\Super-Shop_Management_System.csproj.CoreCompileInputs.cache
+H:\Super-Shop M.S project\Super-Shop_Management_System\Super-Shop_Management_System\obj\Debug\Super-Shop_Management_System.exe
+H:\Super-Shop M.S project\Super-Shop_Management_System\Super-Shop_Management_System\obj\Debug\Super-Shop_Management_System.pdb
+H:\Super-Shop M.S project\Super-Shop_Management_System\Super-Shop_Management_System\obj\Debug\Super_Shop_Management_System.Views.AdminRegistrationForm.resources
+H:\Super-Shop M.S project\Super-Shop_Management_System\Super-Shop_Management_System\obj\Debug\Super_Shop_Management_System.Views.EmployeeRegistrationForm.resources
+H:\Super-Shop M.S project\Super-Shop_Management_System\Super-Shop_Management_System\obj\Debug\Super_Shop_Management_System.Views.AdminAccountInformation.resources
+H:\Super-Shop M.S project\Super-Shop_Management_System\Super-Shop_Management_System\obj\Debug\Super_Shop_Management_System.Views.NewProductAdd.resources
+C:\Users\saifu\Videos\Captures\Super-Shop M.S project\Super-Shop_Management_System\Super-Shop_Management_System\bin\Debug\Super-Shop_Management_System.exe.config
+C:\Users\saifu\Videos\Captures\Super-Shop M.S project\Super-Shop_Management_System\Super-Shop_Management_System\bin\Debug\Super-Shop_Management_System.exe
+C:\Users\saifu\Videos\Captures\Super-Shop M.S project\Super-Shop_Management_System\Super-Shop_Management_System\bin\Debug\Super-Shop_Management_System.pdb
+C:\Users\saifu\Videos\Captures\Super-Shop M.S project\Super-Shop_Management_System\Super-Shop_Management_System\obj\Debug\Super-Shop_Management_System.csproj.AssemblyReference.cache
+C:\Users\saifu\Videos\Captures\Super-Shop M.S project\Super-Shop_Management_System\Super-Shop_Management_System\obj\Debug\Super-Shop_Management_System.csproj.SuggestedBindingRedirects.cache
+C:\Users\saifu\Videos\Captures\Super-Shop M.S project\Super-Shop_Management_System\Super-Shop_Management_System\obj\Debug\Super_Shop_Management_System.Form1.resources
+C:\Users\saifu\Videos\Captures\Super-Shop M.S project\Super-Shop_Management_System\Super-Shop_Management_System\obj\Debug\Super_Shop_Management_System.Properties.Resources.resources
+C:\Users\saifu\Videos\Captures\Super-Shop M.S project\Super-Shop_Management_System\Super-Shop_Management_System\obj\Debug\Super_Shop_Management_System.Views.AdminAccountInformation.resources
+C:\Users\saifu\Videos\Captures\Super-Shop M.S project\Super-Shop_Management_System\Super-Shop_Management_System\obj\Debug\Super_Shop_Management_System.Views.AdminPage.resources
+C:\Users\saifu\Videos\Captures\Super-Shop M.S project\Super-Shop_Management_System\Super-Shop_Management_System\obj\Debug\Super_Shop_Management_System.Views.AdminRegistrationForm.resources
+C:\Users\saifu\Videos\Captures\Super-Shop M.S project\Super-Shop_Management_System\Super-Shop_Management_System\obj\Debug\Super_Shop_Management_System.Views.AllProductsList.resources
+C:\Users\saifu\Videos\Captures\Super-Shop M.S project\Super-Shop_Management_System\Super-Shop_Management_System\obj\Debug\Super_Shop_Management_System.Views.CustomerAllinfomation.resources
+C:\Users\saifu\Videos\Captures\Super-Shop M.S project\Super-Shop_Management_System\Super-Shop_Management_System\obj\Debug\Super_Shop_Management_System.Views.CustomerPage.resources
+C:\Users\saifu\Videos\Captures\Super-Shop M.S project\Super-Shop_Management_System\Super-Shop_Management_System\obj\Debug\Super_Shop_Management_System.Views.EmployeeAllinformation.resources
+C:\Users\saifu\Videos\Captures\Super-Shop M.S project\Super-Shop_Management_System\Super-Shop_Management_System\obj\Debug\Super_Shop_Management_System.Views.EmployeePage.resources
+C:\Users\saifu\Videos\Captures\Super-Shop M.S project\Super-Shop_Management_System\Super-Shop_Management_System\obj\Debug\Super_Shop_Management_System.Views.EmployeeRegistrationForm.resources
+C:\Users\saifu\Videos\Captures\Super-Shop M.S project\Super-Shop_Management_System\Super-Shop_Management_System\obj\Debug\Super_Shop_Management_System.Views.Homepage.resources
+C:\Users\saifu\Videos\Captures\Super-Shop M.S project\Super-Shop_Management_System\Super-Shop_Management_System\obj\Debug\Super_Shop_Management_System.Views.LoginForm.resources
+C:\Users\saifu\Videos\Captures\Super-Shop M.S project\Super-Shop_Management_System\Super-Shop_Management_System\obj\Debug\Super_Shop_Management_System.Views.ManagerAllInformation.resources
+C:\Users\saifu\Videos\Captures\Super-Shop M.S project\Super-Shop_Management_System\Super-Shop_Management_System\obj\Debug\Super_Shop_Management_System.Views.ManagerPage.resources
+C:\Users\saifu\Videos\Captures\Super-Shop M.S project\Super-Shop_Management_System\Super-Shop_Management_System\obj\Debug\Super_Shop_Management_System.Views.ManagerRegistrationForm.resources
+C:\Users\saifu\Videos\Captures\Super-Shop M.S project\Super-Shop_Management_System\Super-Shop_Management_System\obj\Debug\Super_Shop_Management_System.Views.NewProductAdd.resources
+C:\Users\saifu\Videos\Captures\Super-Shop M.S project\Super-Shop_Management_System\Super-Shop_Management_System\obj\Debug\Super_Shop_Management_System.Views.RegistrationForm.resources
+C:\Users\saifu\Videos\Captures\Super-Shop M.S project\Super-Shop_Management_System\Super-Shop_Management_System\obj\Debug\Super-Shop_Management_System.csproj.GenerateResource.cache
+C:\Users\saifu\Videos\Captures\Super-Shop M.S project\Super-Shop_Management_System\Super-Shop_Management_System\obj\Debug\Super-Shop_Management_System.csproj.CoreCompileInputs.cache
+C:\Users\saifu\Videos\Captures\Super-Shop M.S project\Super-Shop_Management_System\Super-Shop_Management_System\obj\Debug\Super-Shop_Management_System.exe
+C:\Users\saifu\Videos\Captures\Super-Shop M.S project\Super-Shop_Management_System\Super-Shop_Management_System\obj\Debug\Super-Shop_Management_System.pdb
